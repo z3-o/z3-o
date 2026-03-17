@@ -1,5 +1,5 @@
 # 💫 About Me:
-dis:z3-o<br>im not very good coding
+<br>im not very good coding
 
 
 # 💻 Tech Stack:
